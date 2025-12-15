@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Temporary files created by learners during execution
+BK.pl
+pos_example.f
+neg_example.n
+positive_bottom_clause
+negative_bottom_clause
+*.tmp
+*.log
+
+# Results directory (generated files)
+Results/
+pygol_z3_results*.md
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.venv
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Comparison results (generated)
+comparison_results.txt
+comparison_results.json
+
+# NumSynth results (if any)
+numsynth_comparison/numsynth-main/ilp-experiments/results/
+

@@ -1,0 +1,19 @@
+# Temporary files created by the learner during execution
+BK.pl
+pos_example.f
+neg_example.n
+positive_bottom_clause
+negative_bottom_clause
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
